@@ -1,1 +1,1 @@
-## [Click here to view my latest CV (PDF)](https://ajinn05.github.io/CV_Ajin_Cho/ajcho_CV.pdf)
+## [Click here to view my latest CV (PDF)](http://github.com/ajinn05/CV_Ajin_Cho/blob/main/ajcho_CV.pdf)
